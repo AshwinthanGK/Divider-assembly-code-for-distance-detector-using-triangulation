@@ -1,0 +1,49 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\gkash\Documents\Atmel Studio\7.0\AssemblerApplication1\AssemblerApplication1\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\gkash\Documents\Atmel Studio\7.0\AssemblerApplication1\AssemblerApplication1\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328Pdef.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\gkash\Documents\Atmel Studio\7.0\AssemblerApplication1\AssemblerApplication1\Debug\AssemblerApplication1.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>AssemblerApplication1.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>AssemblerApplication1.map</FILE>
+  <FILE>AssemblerApplication1.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <RESET><FILE>C:\Users\gkash\Documents\Atmel Studio\7.0\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>31</LINE></RESET>
+  <SineTable><FILE>C:\Users\gkash\Documents\Atmel Studio\7.0\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>18</LINE></SineTable>
+  <ComputeSin><FILE>C:\Users\gkash\Documents\Atmel Studio\7.0\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>72</LINE></ComputeSin>
+  <ComputeCos><FILE>C:\Users\gkash\Documents\Atmel Studio\7.0\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>84</LINE></ComputeCos>
+  <COMPUTE_EXPRESSION><FILE>C:\Users\gkash\Documents\Atmel Studio\7.0\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>110</LINE></COMPUTE_EXPRESSION>
+  <CosAngleLess90><FILE>C:\Users\gkash\Documents\Atmel Studio\7.0\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>91</LINE></CosAngleLess90>
+  <CosAngleGreater90><FILE>C:\Users\gkash\Documents\Atmel Studio\7.0\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>101</LINE></CosAngleGreater90>
+  <FIXED_POINT_DIV><FILE>C:\Users\gkash\Documents\Atmel Studio\7.0\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>210</LINE></FIXED_POINT_DIV>
+  <Both_positive><FILE>C:\Users\gkash\Documents\Atmel Studio\7.0\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>132</LINE></Both_positive>
+  <check_other><FILE>C:\Users\gkash\Documents\Atmel Studio\7.0\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>126</LINE></check_other>
+  <Theta1_neg><FILE>C:\Users\gkash\Documents\Atmel Studio\7.0\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>141</LINE></Theta1_neg>
+  <Theta2_neg><FILE>C:\Users\gkash\Documents\Atmel Studio\7.0\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>151</LINE></Theta2_neg>
+  <DIVIDE_LOOP2><FILE>C:\Users\gkash\Documents\Atmel Studio\7.0\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>173</LINE></DIVIDE_LOOP2>
+  <division_loop><FILE>C:\Users\gkash\Documents\Atmel Studio\7.0\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>181</LINE></division_loop>
+  <skip_sub><FILE>C:\Users\gkash\Documents\Atmel Studio\7.0\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>200</LINE></skip_sub>
+  <END1><FILE>C:\Users\gkash\Documents\Atmel Studio\7.0\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>252</LINE></END1>
+  <DIV_BY_ZERO><FILE>C:\Users\gkash\Documents\Atmel Studio\7.0\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>247</LINE></DIV_BY_ZERO>
+  <DIVIDE_LOOP><FILE>C:\Users\gkash\Documents\Atmel Studio\7.0\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>216</LINE></DIVIDE_LOOP>
+  <BORROW_OCCURRED><FILE>C:\Users\gkash\Documents\Atmel Studio\7.0\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>223</LINE></BORROW_OCCURRED>
+  <END><FILE>C:\Users\gkash\Documents\Atmel Studio\7.0\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>235</LINE></END>
+  <NO_OVERFLOW><FILE>C:\Users\gkash\Documents\Atmel Studio\7.0\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>243</LINE></NO_OVERFLOW>
+  <RESTART><FILE>C:\Users\gkash\Documents\Atmel Studio\7.0\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>240</LINE></RESTART>
+ </LABELS>
+</ASSEMBLER_INFO>
